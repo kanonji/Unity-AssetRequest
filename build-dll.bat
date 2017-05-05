@@ -1,0 +1,1 @@
+"C:\Program Files\Unity5.1.1f1_engine_only\Editor\Data\Mono\bin\smcs.bat" -r:"C:\Program Files\Unity5.1.1f1_engine_only\Editor\Data\Managed\UnityEngine.dll" -r:"C:\Program Files\Unity5.1.1f1_engine_only\Editor\Data\Managed\UnityEditor.dll" -target:library -out:Assets\AssetRequest\Editor\AssetRequest.dll .\Package\*.cs
